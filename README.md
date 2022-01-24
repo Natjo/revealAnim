@@ -1,7 +1,7 @@
 
 # Reveal Animation
 
-![version](https://img.shields.io/github/manifest-json/v/Natjo/revealAnimation)  
+![version](https://img.shields.io/github/manifest-json/v/Natjo/revealAnim)  
 
 Add animation if item is on viewport.
 For list of items, add a delay to display items in order.
