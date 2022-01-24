@@ -18,6 +18,7 @@ For list of items, add a delay to display items in order.
 
 
 ## Usage
+### Javascript
 ```javascript
 import revealAnim from './modules/revealAnim/revealAnim';
 const items = document.querySelectorAll('li');
@@ -28,7 +29,7 @@ revealAnim(items,{
     animation: 'fromBottom'
 })
 ```
-
+### Css
 ```css
 @keyframes fromBottom {
     from {
